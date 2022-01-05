@@ -140,12 +140,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Credits: Sven Kiefer"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"This is the education vanue of the Massive Exoplanet MEME Exhibition (MEME) 2022. Here we guide students through different memes and expalain their context to interessted students. If you want to learn more about the MEME, visit our webpage (https:\/\/massiveexoplanetmemeexhibition.com\/) or follow us on twitter (https:\/\/twitter.com\/exoMEMEevent), facebook (https:\/\/m.facebook.com\/Massive-Exoplanet-Meme-Exhibition-248662623704114\/) or instagram (https:\/\/www.instagram.com\/exomemeevent\/)."
         }, 
         {
          "name":"mapImage",
@@ -155,12 +155,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"kiefersv.github.io\/MEME_education_map\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Starter kit"
+         "value":"Education Venue of the MEME"
         }, 
         {
          "name":"script",
